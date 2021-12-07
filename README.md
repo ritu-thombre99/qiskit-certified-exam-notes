@@ -5,5 +5,5 @@ While studying for the exam, I went over the qiskit functions as well as the the
 
 # Contact
 Feel free to contact me if you find any errors or suggest any improvements or any feedback in general:
-| [LinkedIn](https://www.linkedin.com/in/ritu-thombre/)  | [E-mail](rituthombre99@gmail.com) |
+| [LinkedIn](https://www.linkedin.com/in/ritu-thombre/)  | E-mail - rituthombre99@gmail.com |
 | ------------- | ------------- |
